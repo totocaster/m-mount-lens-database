@@ -55,3 +55,8 @@ Zeiss lens names are [historical design names](https://en.wikipedia.org/wiki/His
 Contribution to this list are very welcome and are the pretty much sole purpose of this database/list. There is many websites that have similar lists of Leica or M-mount lenses, but they all suffer the same issue—they get outdated. The goal of this repo is to keep most accurate and up-to-date list of this kind.
 
 Both, lens (row) and datatype (column), contributions are welcome! 
+
+
+# License 
+
+This list was collected from public sources from all over the internet and offline material. Nothing in this list is anything but advertised specifications from lens manufacturers. While attribution and referencing this list appreciated, it is not required. 
