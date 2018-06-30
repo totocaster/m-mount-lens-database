@@ -14,6 +14,7 @@ Researching M-mount lenses is sometimes not as easy as it should be for a couple
 There is a couple of requirements for the lens to make this list:
 1. It has to work on both, digital and film, cameras.
 2. It has to be bayonet M-mount lens (or very popular conversion. e.g., Canon "Dream Lens").
+3. It has to be rangefinder coupled.
 
 ---
 
