@@ -1,7 +1,10 @@
-ƒ (mm),Max 1/F,Name,Years,"Filter (mm)","Min Focus (cm)",6-bit Code,Made in
-12,5.6,Voigtländer 12mm f/5.6 II Asph,2000–,67,70,,Japan
+ƒ (mm),Max 1/F,Name,Years,Filter (mm),Min Focus (cm),6-bit Code,Made in
+10,5.6,Voigtländer 10mm f/5.6 Aspherical,2016–,—,50,,Japan
+12,5.6,Voigtländer 12mm f/5.6 III Aspherical,2016–,—,70,,Japan
+12,5.6,Voigtländer 12mm f/5.6 II Aspherical,2000–2016,67,70,,Japan
 15,2.8,"Zeiss Distagon T*2,8/15 ZM",2012–,72,30,,Germany
-15,4.5,Voigtländer 15mm f/4.5 M II Asph,2009–,52,50,,Japan
+15,4.5,Voigtländer 15mm f/4.5 M III Aspherical,2015–,58,30,,Japan
+15,4.5,Voigtländer 15mm f/4.5 M II Aspherical,2009–2015,52,50,,Japan
 16,4.0,Leica Tri-Elmar-M 16-18-21mm f/4 ASPH.,2006–,67,50,010000,Germany
 18,3.8,Leica Super-Elmar-M 18mm f/3.8 ASPH.,2006–,77,70,110100,Germany
 18,4.0,Zeiss Distagon T* 18mm f/4 ZM,2007–,58,50,,Japan
@@ -19,7 +22,7 @@
 25,2.8,"Zeiss Biogon T*2,8/25 ZM",,46,50,,
 28,1.9,Voigtländer 28mm F/1.9,2000–2008,46,70,,Japan
 28,2.0,Leica Summicron-M 28mm f/2 ASPH.,2000–,46,70,011010,Germany
-28,2.0,Voigtlander 28mm F/2,2008–,46,70,,Japan
+28,2.0,Voigtländer 28mm F/2,2008–,46,70,,Japan
 28,2.8,Leica Elmarit-M 28mm f/2.8 (Ver. 3),,,,000011,
 28,2.8,Leica Elmarit-M 28mm f/2.8 (Ver. 4),,,,011011,
 28,2.8,Leica Elmarit-M 28mm f/2.8 ASPH.,2006–,39,70,011100,Germany
@@ -27,10 +30,14 @@
 28,2.8,Konica M 28mm F/2.8,1999–2003,46,70,,Japan
 28,2.8,Minolta M-Rokkor 28mm F/2.8,,,,,
 28,4.0,Tri-Elmar-M 28-35-50mm f/4 ASPH.,1998–,,,101010,
+35,1.2,Voigtländer 35mm F/1.2 II Aspherical,2011–,52,70,,
 35,1.4,Leica Summilux-M 35mm f/1.4 ASPH. FL*,2010–,46,70,011101,Germany
 35,1.4,Leica Summilux-M 35mm f/1.4 ASPH.,1994–2010,46,70,011101,Germany
 35,1.4,Leica Summilux 35mm F/1.4,1960–1995,41,100,,Canada
 35,1.4,"Zeiss Distagon T*1,4/35 ZM",,,,,
+35,1.4,Voigtländer 35mm F/1.4 Classic MC,,43,70,,
+35,1.4,Voigtländer 35mm F/1.4 Classic SC,,43,70,,
+35,1.4,Voigtländer 35mm F/1.7 Aspherical,,46,70,,
 35,2.0,Leica Summicron-M 35mm f/2 ASPH.,1996–,,,011110,Germany
 35,2.0,Leica Summicron-M 35mm F/2 (Ver. 4),1987–1996,39,70,000110,Germany
 35,2.0,Leica Summicron-M 35mm F/2 (Ver. 4),1979–1988,39,70,000110,Canada
@@ -43,11 +50,15 @@
 35,2.0,7artisans M35mm F2.0,,,,,China
 35,2.4,Leica 35mm Summarit-M F/2.4 ASPH.,2014–,46,80,,
 35,2.5,Leica 35mm Summarit-M F/2.5,2007–,39,80,101011,Germany
+35,2.5,Voigtländer 35mm F/1.7 Aspherical,,39,70,,
 35,2.8,Leica Summaron 35mm F/2.8 (for M3),1958–1974,39,65,,Germany
 35,2.8,Leica Summaron 35mm F/2.8 (for M2),1958–1974,39,70,,Germany
 35,2.8,"Zeiss C Biogon T*2,8/35 ZM",2008–,43,,,
 35,3.5,Leica Summaron 35mm F/3.5,1956–1960,39,65,,
 35,3.5,Leica Summaron 35mm F/3.5,1954–1960,39,100,,
+40,1.2,Voigtländer 40mm F/1.2 Aspherical,2017–,52,70,,
+40,1.4,Voigtländer 40mm F/1.4 Classic MC,,43,70,,
+40,1.4,Voigtländer 40mm F/1.4 Classic SC,,43,70,,
 40,2.0,Leica Summicron-C 40mm F/2,1973–1977,39,,,
 40,2.0,Minolta M-Rokkor 40mm F/2,,40.5,80,,Japan
 50,0.95,Leica Noctilux-M 50mm f/0.95 ASPH.,2008–,60,70,110001,Germany
@@ -56,12 +67,13 @@
 50,1.0,Leica Noctilux-M 50mm F/1,1983–1993,60,100,011111,
 50,1.0,Leica Noctilux-M 50mm F/1,1976–1983,58,100,011111,
 50,1.1,7artisans 50mm F1.1,,,,,China
-50,1.1,Voigtländer Nokton 50mm F/1.1,2010–,58,,,
+50,1.1,Voigtländer 50mm F/1.1,2010–,58,,,
 50,1.2,Leica Noctilux 50mm F/1.2,1966–1975,,100,,Germany
 50,1.4,Leica Summilux-M 50mm f/1.4 ASPH.,2004–,46,70,100000,
 50,1.4,Leica Summilux 50mm F/1.4,1992–2004,46,100,000101,
 50,1.4,Leica Summilux 50mm F/1.4,1961–1991,43,100,,
 50,1.5,"Zeiss C Sonnar T*1,5/50 ZM",,,,,
+50,1.5,Voigtländer 50mm F/1.5 Aspherical,,49,70,,
 50,2.0,Leica Summicron-M 50mm F/2,1979–,,,100001,
 50,2.0,Leica Summicron 50mm F/2,1969–1979,,,010111,Germany
 50,2.0,Leica APO-Summicron-M 50mm f/2 Asph,2012–,39,70,110101,Germany
@@ -73,6 +85,7 @@
 50,2.8,Leica Elmar-M 50mm F/2.8,,,,100010,
 50,2.8,Leitz Elmar 50mm F/2.8,,,,,
 50,2.9,Meyer Optik Görlitz Trioplan 50mm f/2.9,,,,,
+50,3.5,Voigtländer 50mm F/3.5,,27,70,,
 75,1.25,Leica 75mm f/1.25 Noctilux-M Asph,,,,,
 75,1.4,Leica Summilux-M 75mm F/1.4,,,,100011,
 75,1.8,Voigtländer 75mm f/1.8,,,,,
@@ -91,7 +104,7 @@
 90,2.8,Konica M 90mm F/2.8,,,,,
 90,4.0,Minolta M-Rokkor 90mm F/4,,,,,
 90,4.0,Leica Elmar-C 90mm F/4,,,,,
-90,4.0,Leica Elmar 9cm F4,,,,,
+90,4.0,Leica Elmar 9cm (90mm) F4,,,,,
 90,4.0,Leica Macro-Elmar-M 90mm F/4,,,,100111,
 135,2.8,Leica Elmarit-M 135mm F/2.8,,,,001001,Canada
 135,2.8,Leica Elmarit 135mm F/2.8,,,,,
