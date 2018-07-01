@@ -51,6 +51,14 @@ All above are trademarks of Leica Camera AG.
 
 Zeiss lens names are [historical design names](https://en.wikipedia.org/wiki/History_of_photographic_lens_design). 
 
+# Footnotes
+
+1. Leitz 21mm f/4 Super-Angulon works on digital M as it doesn't damage the camera in any way. However, rear lens is too close to the sensor resulting false colors around the perimeter of photo. This is not an issue when using film.
+2. This lens has integrated "googles" for the rangefinder.
+3. FL is not part of the offcial name. FL stands for *floating elements*.
+4. Not originally M-Mount lens, but very popular conversion. Relatively easy to buy in M-mount online.
+5. Specialty lens. Unconventional bokeh.
+
 # Contributing 
 
 Contribution to this list are very welcome and are the pretty much sole purpose of this database/list. There is many websites that have similar lists of Leica or M-mount lenses, but they all suffer the same issue—they get outdated. The goal of this repo is to keep most accurate and up-to-date list of this kind.
