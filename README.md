@@ -25,6 +25,7 @@ There is a couple of requirements for the lens to make this list:
 3. FL is not part of the offcial name. FL stands for *floating elements*.
 4. Not originally M-Mount lens, but very popular conversion. Relatively easy to buy in M-mount online.
 5. Specialty lens. Unconventional bokeh.
+6. Can be used on digital, but without metering.
 
 ---
 
@@ -34,7 +35,7 @@ Unlike Zeiss lenses, Leica lens names usually indicate their maximum aperture ra
 
 * **Summicron** — F/2.0 lenses.
 * **Summilux** — F/1.4 lenses.
-* **Summarit** — F/2.4 or F/2.5 lenses (see note below). 
+* **Summarit** — F/2.4 or F/2.5 lenses (see note below).
 * **Noctilux** — Anything faster than F/1.4. Most famous being F/0.95 50mm lens.
 * **Elmarit** — F/2.8 lenses.
 * **Elmar** and **Super-Elmar** — Between F/3.4 to F/4.0.
@@ -49,7 +50,7 @@ If you are looking into lenses made before 1960, those names above might make no
 
 Note that, on other mounts and camera systems those names are sometimes used more generously. Leica Q with 28mm F/1.7 Summilux (not F/1.4) comes to mind.
 
-All above are trademarks of Leica Camera AG. 
+All above are trademarks of Leica Camera AG.
 
 ### 6-bit Code
 
@@ -66,15 +67,15 @@ Codes are given **right to left** (←) when holding lens bayonet and rear lens 
 
 ## Zeiss Name Nomenclature
 
-Zeiss lens names are [historical design names](https://en.wikipedia.org/wiki/History_of_photographic_lens_design). 
+Zeiss lens names are [historical design names](https://en.wikipedia.org/wiki/History_of_photographic_lens_design).
 
-# Contributing 
+# Contributing
 
 Contribution to this list are very welcome and are the pretty much sole purpose of this database/list. There is many websites that have similar lists of Leica or M-mount lenses, but they all suffer the same issue—they get outdated. The goal of this repo is to keep most accurate and up-to-date list of this kind.
 
-Both, lens (row) and datatype (column), contributions are welcome! 
+Both, lens (row) and datatype (column), contributions are welcome!
 
 
-# License 
+# License
 
-This list was collected from public sources from all over the internet and offline material. Nothing in this list is anything but advertised specifications from lens manufacturers. While attribution and referencing this list appreciated, it is not required. 
+This list was collected from public sources from all over the internet and offline material. Nothing in this list is anything but advertised specifications from lens manufacturers. While attribution and referencing this list appreciated, it is not required.
