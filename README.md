@@ -51,6 +51,13 @@ Note that, on other mounts and camera systems those names are sometimes used mor
 
 All above are trademarks of Leica Camera AG. 
 
+### 6-bit Code
+
+Codes are given **right to left** (←) when holding lens bayonet and rear lens element facing you.
+
+* 1 = Black dot
+* 0 = White dot
+
 ### Leica Lens Markings
 
 * **ASPH.** — The lens has at least one aspherical element.
