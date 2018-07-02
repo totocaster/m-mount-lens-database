@@ -33,7 +33,7 @@
 28,2.8,"Zeiss Biogon T*2,8/28 ZM",2004–,46,50,,Japan
 28,2.8,Konica M 28mm F/2.8,1999–2003,46,70,,Japan
 28,2.8,Minolta M-Rokkor 28mm F/2.8,,,,,
-28,4.0,Leica Tri-Elmar-M 28-35-50mm f/4 ASPH.,1998–,,,101010,
+28,4.0,Leica Tri-Elmar-M 28-35-50mm f/4 ASPH.,1998–,55,100,101010,
 35,1.2,Voigtländer 35mm F/1.2 II Aspherical,2011–,52,70,,
 35,1.4,Leica Summilux-M 35mm f/1.4 ASPH. FL³,2010–,46,70,011101,Germany
 35,1.4,Leica Summilux-M 35mm f/1.4 ASPH.,1994–2010,46,70,011101,Germany
@@ -42,11 +42,11 @@
 35,1.4,Voigtländer 35mm F/1.4 Classic MC,,43,70,,
 35,1.4,Voigtländer 35mm F/1.4 Classic SC,,43,70,,
 35,1.4,Voigtländer 35mm F/1.7 Aspherical,,46,70,,
-35,2.0,Leica Summicron-M 35mm f/2 ASPH.,1996–,,,011110,Germany
+35,2.0,Leica Summicron-M 35mm f/2 ASPH.,1996–,39,70,011110,Germany
 35,2.0,Leica Summicron-M 35mm F/2 (Ver. 4),1987–1996,39,70,000110,Germany
 35,2.0,Leica Summicron-M 35mm F/2 (Ver. 4),1979–1988,39,70,000110,Canada
-35,2.0,Leica Summicron 35mm F/2 (Ver. 3),1971–1979,39,,,Canada
-35,2.0,Leica Summicron 35mm F/2 (Ver. 2),1969–1971,39,,,Germany
+35,2.0,Leica Summicron 35mm F/2 (Ver. 3),1971–1979,39,70,,Canada
+35,2.0,Leica Summicron 35mm F/2 (Ver. 2),1969–1971,39,70,,Germany
 35,2.0,Leica Summicron 35mm F/2 (for M2)²,1958–1974,39,70,,Germany
 35,2.0,Leica Summicron 35mm F/2 (for M3)²,1958–1974,39,65,,Germany
 35,2.0,Zeiss Biogon T*2/35 ZM,2004–,43,70,,Japan
@@ -72,30 +72,30 @@
 50,1.0,Leica Noctilux-M 50mm F/1,1976–1983,58,100,011111,
 50,1.1,7artisans 50mm F1.1,,,,,China
 50,1.1,Voigtländer 50mm F/1.1,2010–,58,,,
-50,1.2,Leica Noctilux 50mm F/1.2,1966–1975,,100,,Germany
+50,1.2,Leica Noctilux 50mm F/1.2,1966–1975,Series 8,100,,Germany
 50,1.4,Leica Summilux-M 50mm f/1.4 ASPH.,2004–,46,70,100000,
 50,1.4,Leica Summilux 50mm F/1.4,1992–2004,46,100,000101,
 50,1.4,Leica Summilux 50mm F/1.4,1961–1991,43,100,,
 50,1.5,"Zeiss C Sonnar T*1,5/50 ZM",,,,,
 50,1.5,Voigtländer 50mm F/1.5 Aspherical,,49,70,,
-50,2.0,Leica Summicron-M 50mm F/2,1979–,,,100001,
-50,2.0,Leica Summicron 50mm F/2,1969–1979,,,010111,Germany
+50,2.0,Leica Summicron-M 50mm F/2,1979–,39,70,100001,
+50,2.0,Leica Summicron 50mm F/2,1968–1979,39,70,010111,Germany
 50,2.0,Leica APO-Summicron-M 50mm f/2 Asph,2012–,39,70,110101,Germany
 50,2.0,Leica Summicron 5cm F/2,1952–1960,39,,,Germany
 50,2.0,Zeiss Plannar T*2/50 ZM,,,,,
 50,2.0,Konica M 50mm F/2,1999–2003,40.5,70,,Japan
 50,2.4,Leica Summarit-M 50mm F2.4 ASPH,2014–,46,80,,Germany
-50,2.5,Leica Summarit-M 50mm F/2.5,2007–2014,,,101100,
-50,2.8,Leica Elmar-M 50mm F/2.8,1994–2007,,,100010,
-50,2.8,Leica Leitz Elmar 50mm F/2.8,1958–1966,,,,
+50,2.5,Leica Summarit-M 50mm F/2.5,2007–2014,39,80,101100,
+50,2.8,Leica Elmar-M 50mm F/2.8,1994–2007,39,70,100010,
+50,2.8,Leica Leitz Elmar 50mm F/2.8,1958–1966,39,100,,
 50,2.9,Meyer Optik Görlitz Trioplan 50mm f/2.9⁵,,,,,
 50,3.5,Voigtländer 50mm F/3.5,,27,70,,
 75,1.25,Leica 75mm f/1.25 Noctilux-M ASPH.,2018–,,,,
-75,1.4,Leica Summilux-M 75mm F/1.4,1980–2007,,,100011,
+75,1.4,Leica Summilux-M 75mm F/1.4,1980–2007,60,75,100011,
 75,1.8,Voigtländer 75mm f/1.8,,,,,
 75,2.0,Leica APO-Summicron-M 75mm f/2 ASPH.,2005–,49,70,100100,
 75,2.4,Leica Summarit-M 75mm f/2.4,2014–,46,70,,Germany
-75,2.5,Leica Summarit-M 75mm f/2.5,1980–2007,,,101101,Germany
+75,2.5,Leica Summarit-M 75mm f/2.5,1980–2007,46,90,101101,Germany
 85,4.0,Zeiss Tele-Tessar T*4/85 ZM,,,,,
 90,2.0,Leica APO-Summicron-M 90mm f/2 ASPH.,1998–,55,100,100101,
 90,2.0,Leica Summicron-M 90mm f/2,1980–1998,49,100,000111,
@@ -110,7 +110,7 @@
 90,2.8,Leica Elmarit 90mm f/2.8,1959–1974,39,100,,
 90,2.8,Konica M 90mm f/2.8,,,,,
 90,4.0,Minolta M-Rokkor 90mm f/4,,,,,
-90,4.0,Leica Elmar-C 90mm f/4,,S5.5,100,,
+90,4.0,Leica Elmar-C 90mm f/4,,Series 5.5,100,,
 90,4.0,Leica Elmar 9cm (90mm) f/4,1962–1965,,,,
 90,4.0,Leica Macro-Elmar-M 90mm f/4,2004–,39,77,100111,
 135,2.8,Leica Elmarit-M 135mm f/2.8²,1976–1996,55,150,001001,Canada
