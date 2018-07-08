@@ -22,7 +22,7 @@ There is a couple of requirements for the lens to make this list:
 
 1. Leitz 21mm f/4 Super-Angulon works on digital M as it doesn't damage the camera in any way. However, rear lens is too close to the sensor resulting false colors around the perimeter of photo. This is not an issue when using film.
 2. This lens has integrated "googles" for the rangefinder.
-3. FL is not part of the offcial name. FL stands for *floating elements*.
+3. FL (or FLE) is not part of the official name. FL/FLE stands for *floating elements*.
 4. Not originally M-Mount lens, but very popular conversion. Relatively easy to buy in M-mount online.
 5. Specialty lens. Unconventional bokeh.
 6. Can be used on digital, but without metering.
@@ -54,7 +54,7 @@ All above are trademarks of Leica Camera AG.
 
 ### 6-bit Code
 
-Codes are given **right to left** (←) when holding lens bayonet and rear lens element facing you.
+Codes are given **left to right** when holding lens bayonet and rear element facing you and code positioned at the top (12 o'clock) of the lens.
 
 * 1 = Black dot
 * 0 = White dot
