@@ -26,6 +26,7 @@ There is a couple of requirements for the lens to make this list:
 4. Not originally M-Mount lens, but very popular conversion. Relatively easy to buy in M-mount online.
 5. Specialty lens. Unconventional bokeh.
 6. Can be used on digital, but without metering.
+7. Technically, not a different lenses. SC and MC stand for single and multi coated versions. Single coated version is supposed to have vintage rendering.
 
 ---
 
