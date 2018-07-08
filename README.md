@@ -43,15 +43,16 @@ Unlike Zeiss lenses, Leica lens names usually indicate their maximum aperture ra
 * **Hector** — F/4.5 and above.
 * **Thambar** — Vintage design, soft-focusing lenses.
 
-#### Note on modern Summarit lenses
-
-Modern Summarit lenses were primarily made for digital cameras in the mid-2000s. While they are optically excellent and work on film, most have noticeable barrel distortion which is easy to fix in a digital workflow.
-
-If you are looking into lenses made before 1960, those names above might make no sense since they were used differently. For example, Summarit lenses were F/1.5 instead of F/2.4–2.5; Summarex and Summaron names no longer exist.
+If you are looking into lenses made before 1960, those names above might make no sense since they were used differently. For example, Summarit lenses were F/1.5 instead of F/2.4–2.5.
 
 Note that, on other mounts and camera systems those names are sometimes used more generously. Leica Q with 28mm F/1.7 Summilux (not F/1.4) comes to mind.
 
 All above are trademarks of Leica Camera AG.
+
+
+#### Note on modern Summarit lenses
+
+Modern Summarit lenses were primarily made for digital cameras in the mid-2000s. While they are optically excellent and work on film, most have noticeable barrel distortion which is easy to fix in a digital workflow.
 
 ### 6-bit Code
 
